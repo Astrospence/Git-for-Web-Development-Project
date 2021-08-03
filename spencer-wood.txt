@@ -2,7 +2,9 @@ Link to finished codepen: https://codepen.io/Astrospence/pen/RwVBqmo?editors=110
     1. What is Semantic HTML? 
     It is tags that help describe what the code is for.
     2. What is HTML used for? 
+    It makes up the building blocks for the website, all the content.
     3. What is an attribute and where do we put it? 
+    An attribute describes the element, or gives it more specifications, and it goes inside the opening tag.
     4. What is the h1 tag used for? How many times should I use it on a page?
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
